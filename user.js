@@ -3,7 +3,7 @@
 // @description  在国家中小学智慧教育平台网站中添加电子课本下载按钮，下载电子课本
 // @namespace    https://github.com/BaeKey/smartedu
 // @version      0.1.0
-// @match        https://*.smartedu.cn/tchMaterial/detail*
+// @match        https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document*
 // @icon         https://basic.smartedu.cn/favicon.ico
 // @grant        GM_xmlhttpRequest
 // @license      MIT
